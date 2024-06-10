@@ -12,8 +12,7 @@ Haven't set up the bot yet? Check out [Setting up the bot](setup.md) first!
 
 ## Configuration file
 All bot options are saved in a configuration file in the bot's folder.
-This is created during the [setup](setup.md) and is generally either `config.ini` or, if you've been using the bot for
-longer, `config.json`.
+This is created during the [setup](setup.md) and is generally either `config.ini` or, `config.json`.
 
 The instructions on this page are for `config.ini` but can be adapted to `config.json` as well.
 See [config.ini vs config.json](#configini-vs-configjson) for more details.

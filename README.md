@@ -6,7 +6,7 @@ To the user, the entire process happens in DMs with the bot.
 
 Inspired by Reddit's modmail system.
 
-**⚠ Note on updating to v3.0.0:** If you're currently using a *very* old version of the bot, from before February 2018, you'll first need to update to v2.30.1 and run the bot once before updating to v3.0.0.
+**⚠ Note on updating to v3.7.0:**
 
 Always take a backup of your `db/data.sqlite` file before updating the bot.
 
@@ -19,9 +19,8 @@ Always take a backup of your `db/data.sqlite` file before updating the bot.
 * [📋 Snippets](docs/snippets.md)
 * [🧩 Plugins](docs/plugins.md)
 * [📌 Release notes](CHANGELOG.md)
-* [📚 **Community Guides & Resources**](https://github.com/Dragory/modmailbot-community-resources)
 
 ## Support server
 If you need help with setting up the bot or would like to discuss other things related to it, join the support server on Discord here:
 
-👉 **[Join support server](https://discord.gg/vRuhG9R)**
+👉 **[Join support server](N/A)**
